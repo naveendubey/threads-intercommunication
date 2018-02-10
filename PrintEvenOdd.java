@@ -1,4 +1,4 @@
-package naveen.thread.communication.odd.even;
+package naveen.thread.intercommunication;
 
 /**
  * 
